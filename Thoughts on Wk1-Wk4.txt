@@ -1,0 +1,8 @@
+Thoughts on Wk1-Wk4
+W1. Data types, after variable assignment.
+    Operators on different data types.
+W2. Basic program structure before if statement. (sequence, branch, and loop)
+    While loop in loop section.
+W3. Stress the function of indent in the nested loop section
+    Inline function with lambda expression
+W4. Import command, adding import xxx as xxx, and from xxx import xxx, and from xxx import xxx as xxx
